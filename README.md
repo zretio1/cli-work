@@ -6,3 +6,4 @@
 - Add section about known issues.
 - Fix formatting in README headers.
 - Add link to issue tracker.
+- Add changelog section.
