@@ -7,3 +7,4 @@
 - Fix formatting in README headers.
 - Add link to issue tracker.
 - Add changelog section.
+- Final proofread and minor edits.
