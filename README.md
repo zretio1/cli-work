@@ -4,3 +4,4 @@
 - Clarify environment variables usage.
 - Improve instructions for running tests.
 - Add section about known issues.
+- Fix formatting in README headers.
